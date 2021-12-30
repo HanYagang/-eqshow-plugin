@@ -1,0 +1,20 @@
+{
+  "name": "@eqshow/plugin-styles",
+  "version": "0.0.0",
+  "description": "eqshow styles plugin",
+  "author": "hanyagang <70358969@qq.com>",
+  "homepage": "https://github.com/HanYagang/eqshow-plugin#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanYagang/eqshow-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HanYagang/eqshow-plugin/issues"
+  }
+}
