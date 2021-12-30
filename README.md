@@ -1,0 +1,2 @@
+# -eqshow-plugin
+eqshow plugins
