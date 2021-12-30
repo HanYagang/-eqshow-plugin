@@ -1,0 +1,16 @@
+{
+  "name": "eqshow-plugin",
+  "version": "1.0.0",
+  "description": "eqshow plugins",
+  "main": "index.js",
+  "repository": "git@github.com:HanYagang/eqshow-plugin.git",
+  "author": "hanyagang <70358969@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
